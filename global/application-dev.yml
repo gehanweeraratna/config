@@ -2,3 +2,4 @@ greeting: ${GREETING:GoodEvening}
 channelPartners:
    redshelf: ${REDSHELF:RedShelf}
    vitalsource: ${VITALSOURCE:VitalSource}
+   bned: ${BNED:Barns & Noble}

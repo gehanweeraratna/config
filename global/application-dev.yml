@@ -1,1 +1,1 @@
-greeting:Good evening
+greeting: ${GREETING:GoodEvening}

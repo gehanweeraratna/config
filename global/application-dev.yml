@@ -1,4 +1,4 @@
-greeting: ${GREETING:GoodEvening}
+greeting: ${GREETING:Nice day}
 channelPartners:
    redshelf: ${REDSHELF:RedShelf}
    vitalsource: ${VITALSOURCE:VitalSource}
